@@ -1,4 +1,4 @@
-# WIPER_machine
+# Wiper_machine
 ## INTRODUCTION
 A wiper speed control system regulates the operational speed of a wiper based on frequencies. To generate a control signal, the pulse signal is digitally processed. The control signal is received by a wiper driving circuit, which then adjusts the operational speed or time accordingly.  
 ## SOFTWARE REQUIREMENTS
