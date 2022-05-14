@@ -1,7 +1,7 @@
 # ABSTRACT
 A windshield wiper is a device that cleans the front window of a car by removing rain, snow, ice, washer fluid, and water. Almost all motor vehicles, including cars, lorries, buses, railroad locomotives, and watercraft with a cabin—as well as some aircraft—have one or more such wipers, which are usually required by law. The previous technology needed manual wiper activation; adjusting the frequency results in a variable operation of raising the wiper speed. This project seeks to improve the system of older cars by providing automated wiping, to improve the system by using a sensor with actuators, and to build a basic software that will completely work with the system. This proposed wiper system's principle is comparable to those of other existing conventional wipers.Despite removing water from the windscreen, this system also will be upgraded to an automatic control system by using a Peripheral Interface Controller
 ## INTRODUCTION
-A wiper speed control system regulates the operational speed of a wiper based on frequencies. To generate a control signal, the pulse signal is digitally processed. The control signal is received by a wiper driving circuit, which then adjusts the operational speed or time accordingly.  
+A wiper machine regulates the operational speed of a wiper based on frequencies. To generate a control signal, the pulse signal is digitally processed. The control signal is received by a wiper driving circuit, which then adjusts the operational speed or time accordingly.  
 ## SOFTWARE REQUIREMENTS
  STM32 CUBE IDE
 ## COMPONENTS
@@ -25,7 +25,7 @@ Consider the automobile as microcontroller. If the button is hit, the first LED 
 ## FOLDER STRUCTURE
 Folder | Description
 -- | --
-0_Abstract | Explaination of the project
+0_Abstract | Explanation of the project
 1_Requirements | Documents detailing requirements and research
 2_Architecture	| Behavioural and Structural UML Diagrams along with Block diagrams and flow charts
 3_Implemenatation	 | All code and documentation
