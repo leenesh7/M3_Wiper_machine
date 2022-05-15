@@ -6,7 +6,7 @@
  
     
     
-    Code Quality ![Code Quality Score](https://api.codiga.io/project/33393/score/svg)
+    Code Quality ![Code Quality Score](https://api.codiga.io/project/33537/score/svg)
      
      
      Quality Grade ![Quality Grade](https://api.codiga.io/project/33393/status/svg)     
