@@ -21,8 +21,8 @@
 
 
 
-* Bulid on Linux  [![Build-Linux](https://github.com/dineshkumar-t-dk/M3_Wiper_control_system/actions/workflows/Bulid%20on%20Linux.yml/badge.svg)]
+* Bulid on Linux  ![Build-Linux](https://github.com/dineshkumar-t-dk/M3_Wiper_control_system/actions/workflows/Bulid%20on%20Linux.yml/badge.svg)
 
 
 
-* Cppcheck_analysis [![Cppcheck Analysis](https://github.com/dineshkumar-t-dk/M3_Wiper_control_system/actions/workflows/Cppcheck_analysis.yml/badge.svg)]
+* Cppcheck_analysis ![Cppcheck Analysis](https://github.com/dineshkumar-t-dk/M3_Wiper_control_system/actions/workflows/Cppcheck_analysis.yml/badge.svg)
