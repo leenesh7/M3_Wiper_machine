@@ -15,7 +15,7 @@
 
 
 
-* Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e341b199fb8c4082b3eec703b5441628)](https://www.codacy.com/gh/dineshkumar-t-dk/M3_Wiper_control_system/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dineshkumar-t-dk/M3_Wiper_control_system&amp;utm_campaign=Badge_Grade)
+* Codacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c75e6d1ed54b452398eb7ae8b3c413e0)](https://www.codacy.com/gh/leenesh7/M3_Wiper_machine/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=leenesh7/M3_Wiper_machine&amp;utm_campaign=Badge_Grade)
      
                   
 
